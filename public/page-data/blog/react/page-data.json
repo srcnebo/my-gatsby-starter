@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-templates-blog-js","path":"/blog/react","result":{"data":{"markdownRemark":{"frontmatter":{"title":"The React Test Post","date":"2018"},"html":"<p>This is a react post</p>\n<h2>Topics, a H2 equivalent</h2>\n<ul>\n<li>this is an list</li>\n<li>unordered list</li>\n</ul>"}},"pageContext":{"slug":"react"}},"staticQueryHashes":[]}
